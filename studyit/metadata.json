@@ -1,0 +1,9 @@
+{
+  "name": "STUDYIT",
+  "description": "An all-in-one AI study companion featuring research grounding, local study spot finder, deep reasoning for complex topics, and instant flashcard generation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
